@@ -2,7 +2,7 @@ FROM alpine:3.7
 
 ENV DOCKER_CHANNEL=stable \
     DOCKER_VERSION=18.09.2 \
-    DOCKER_COMPOSE_VERSION=1.19.0 \
+    DOCKER_COMPOSE_VERSION=1.23.2 \
     DOCKER_SQUASH=0.2.0
 
 # Install Docker, Docker Compose, Docker Squash
