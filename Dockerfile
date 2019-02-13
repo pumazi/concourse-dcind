@@ -10,6 +10,7 @@ RUN apk --update --no-cache add \
         bash \
         curl \
         device-mapper \
+        python3 \
         py-pip \
         iptables \
         ca-certificates \
